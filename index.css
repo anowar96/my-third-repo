@@ -1,0 +1,16 @@
+h1{
+    color:rgb(26, 64, 87);
+}
+#A{
+    color: crimson;
+    font-style: italic;
+}
+#b{
+    font-style: italic;
+    font-variant: initial;
+    font-size: large;
+}
+strong{
+    text-align: center;
+    color:brown;
+}
